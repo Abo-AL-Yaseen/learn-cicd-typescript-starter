@@ -1,4 +1,4 @@
-	import { describe, expect, test } from "vitest";
+import { describe, expect, test } from "vitest";
 import { getAPIKey } from "../api/auth";
 
 describe("getAPIKey", () => {
